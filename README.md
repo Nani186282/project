@@ -7,7 +7,7 @@ This project focuses on performing Exploratory Data Analysis (EDA) on the Netfli
 The dataset includes details such as titles, type (Movie/TV Show), director, cast, country, release year, rating, duration, and listed genres.</p>
 
 <p>Through this analysis, we aim to understand content trends, patterns, and distributions that can help answer questions such as:</p>
-<br>
+
 <ul>
 <li>What type of content (Movies vs TV Shows) dominates Netflix?</li>
 
